@@ -1,3 +1,5 @@
-# upload-exmpl - backend
+# upload-exmpl
 
-Upload Files App Example (Backend) - Rocketseat (watch?v=MkkbUfcZUZM)
+Upload Files App Example - Rocketseat 
+- Backend (watch?v=MkkbUfcZUZM)
+- Frontend (watch?v=G5UZmvkLWSQ)

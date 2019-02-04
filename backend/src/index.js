@@ -23,5 +23,6 @@ app.use(
 );
 
 app.use(require("./routes"));
+app.use((err, req, res, next) => (err && res.status(500).send(err)) || next());
 
 app.listen(3000);
